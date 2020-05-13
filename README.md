@@ -9,7 +9,7 @@ Summary: Download anime image and its tag from Safebooru. Extract the tags into 
 Implementation: Download xml file using Safebooru api, compile file_url into links text file.
 Map file name of the link to its tag into safebooru.csv. Train the model and deploy into production.
 
-
+Note: The file is in Jupyter Notebook format, open in Google Colab or Jupyter.
 
 ---
 
